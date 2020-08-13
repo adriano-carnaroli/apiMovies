@@ -122,16 +122,6 @@
       "sinopse": "Um artista boêmio herda de sua mulher uma antiga casa da família na Toscana e aproveita a oportunidade da venda da propriedade para acertar sua relação com o filho."
     },{
       "id": 13,
-      "titulo": "An American Pickle",
-      "ano": "2020",
-      "genero": "Comédia",
-      "titulo_original": "An American Pickle",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/8ziUp2q71vCmMgYY2MRCwI3mSs5.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/bkJA4J6sddIKwKSi0qepTiDdwvt.jpg",
-      "sinopse": "Herschel Greenbaum, um operário que imigra para os Estados Unidos em 1978 com sonhos de construir uma vida melhor para sua amada família. Um dia, enquanto trabalhava no seu trabalho de fábrica, ele cai em um tanque de picles e fica salgando por 100 anos. A salmoura o preserva perfeitamente e quando ele surge nos presentes dias em Brooklyn, ele percebe que não envelheceu nem um dia. Mas quando procura sua família, ele fica horrorizado em saber que seu único parente vivo é seu bisneto, Ben Greenbaum, um educado codificador de computadores o qual Herschel não consegue entender."
-    },{
-      "id": 14,
       "titulo": "Star Wars: A Ascensão Skywalker",
       "ano": "2019",
       "genero": "Ação, Aventura, Ficção científica",
@@ -141,7 +131,7 @@
       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
       "sinopse": "Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso, a Resistência toma a frente da batalha que ditará os rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa ligação com Kylo Ren (Adam Driver), que também se encontra em conflito pela Força."
     },{
-      "id": 15,
+      "id": 14,
       "titulo": "Aves de Rapina: Arlequina e sua Emancipação Fantabulosa",
       "ano": "2020",
       "genero": "Ação, Crime, Comédia",
