@@ -1,145 +1,148 @@
+{
+"root": 
  {
-  "filmes": [
-    {
-      "id": 1,
-      "titulo": "Dançarina Imperfeita",
-      "ano": "2020",
-      "genero": "Comédia, Música",
-      "titulo_original": "Work It",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/vq2gVFqD2sv0W3bKITWMOwg0JXd.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/ishzDCZIv9iWfI70nv5E4ZreYUD.jpg",
-      "sinopse": "Para ser aceita na Universidade de Duke, a inteligente e desajeitada Quin decide vencer uma competição de dança. Com Sabrina Carpenter."
-    },{
-      "id": 2,
-      "titulo": "A Barraca do Beijo 2",
-      "ano": "2020",
-      "genero": "Comédia, Romance",
-      "titulo_original": "The Kissing Booth 2",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/oUafkafJiFKkXuzROaAY8N9gGq.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/wO5QSWZPBT71gMLvrRex0bVc0V9.jpg",
-      "sinopse": "Após o verão mais romântico de sua vida, Elle Evans precisa voltar à realidade enquanto Noah Flynn está em Harvard. No entanto, a distância acaba se provando mais difícil do que se imaginava, quando ela conhece um novo e charmoso amigo e ele se aproxima de uma 'perfeita' universitária."
-    },{
-      "id": 3,
-      "titulo": "The Tax Collector",
-      "ano": "2020",
-      "genero": "Ação, Crime, Drama, Thriller",
-      "titulo_original": "The Tax Collector",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/zogWnCSztU8xvabaepQnAwsOtOt.jpg",
-      "sinopse": "David e Creeper são coletores de taxas para o chefão do crime chamado Wizard, que pega uma parte dos lucros de todas as operações ilegais de outras gangues. Mas quando um rival de seu chefe retorna para Los Angeles vindo do México, David irá precisar tomar medidas drásticas para proteger sua família."
-    },{
-      "id": 4,
-      "titulo": "Exterminador: Cavaleiros e Dragões",
-      "ano": "2020",
-      "genero": "Animação, Ação",
-      "titulo_original": "Deathstroke: Knights & Dragons - The Movie",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/vFIHbiy55smzi50RmF8LQjmpGcx.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/owraiceOKtSOa3t8sp3wA9K2Ox6.jpg",
-      "sinopse": "Com sua alma despedaçada e seu filho preso, o mercenário e mestre assassino Slade Wilson terá que redimir os pecados do seu passado para alimentar as batalhas do seu futuro!"
-    },{
-      "id": 5,
-      "titulo": "O Jardim Secreto",
-      "ano": "2020",
-      "genero": "Drama, Fantasia, Família",
-      "titulo_original": "The Secret Garden",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/lHIgpy7yAyqxQx79PtvqEoiXuk8.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/8PK4X8U3C79ilzIjNTkTgjmc4js.jpg",
-      "sinopse": "Mary Lennox (Dixie Egerickx) é uma menina de 10 anos que acabou de perder os pais e é mandada para a Inglaterra para morar com o tio Archibald Craven (Colin Firth). Na mansão do tio ela começa a desvendar mistérios da família com a ajuda do seu primo (Edan Hayhurst)."
-    },{
-      "id": 6,
-      "titulo": "Do Fundo do Mar 3",
-      "ano": "2020",
-      "genero": "Ação, Terror, Ficção científica",
-      "titulo_original": "Deep Blue Sea 3",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/iK3Nqzqbp0HL7Mbnm3hKOsldxjn.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
-      "sinopse": "A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar."
-    },{
-      "id": 7,
-      "titulo": "Greyhound - Na Mira do Inimigo",
-      "ano": "2020",
-      "genero": "Guerra, Ação, Drama",
-      "titulo_original": "Greyhound",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/el7iWlogQ4Mv6A0qvBn4ZyxHGiW.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/xXBnM6uSTk6qqCf0SRZKXcga9Ba.jpg",
-      "sinopse": "No início da Segunda Guerra Mundial, um inexperiente capitão da Marinha dos EUA deve liderar um comboio aliado sendo perseguido por navios e submarinos nazistas."
-    },{
-      "id": 8,
-      "titulo": "SCOOBY! O Filme",
-      "ano": "2020",
-      "genero": "Família, Animação, Comédia, Aventur",
-      "titulo_original": "Scoob!",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/b5Fej0UT6gPFd2GcGEWw4SAwGUM.jpg",
-      "sinopse": "Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo. Enquanto eles correm para parar esse caopocalypse, a gangue descobre que Scooby tem um destino épico maior do que se imaginava."
-    },{
-      "id": 9,
-      "titulo": "Vingadores: Guerra Infinita",
-      "ano": "2018",
-      "genero": "Aventura, Ação, Ficção científica",
-      "titulo_original": "Avengers: Infinity War",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
-      "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade."
-    },{
-      "id": 10,
-      "titulo": "A Origem",
-      "ano": "2010",
-      "genero": "Ação, Ficção científica, Aventura",
-      "titulo_original": "Inception",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/o1SB1gHCmEEURs8P6dfmSC9O3iu.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
-      "sinopse": "Um ladrão que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo."
-    },{
-      "id": 11,
-      "titulo": "Coringa",
-      "ano": "2019",
-      "genero": "Crime, Thriller, Drama",
-      "titulo_original": "Joker",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
-      "sinopse": "Arthur Fleck trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante."
-    },{
-      "id": 12,
-      "titulo": "Made in Italy",
-      "ano": "2020",
-      "genero": "Comédia, Drama",
-      "titulo_original": "Made in Italy",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/dKjD3DTZjRI3Ipkf7Oz5zAILnwD.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/5nRyaVklxyA9OkxqZaPv1KBRqpd.jpg",
-      "sinopse": "Um artista boêmio herda de sua mulher uma antiga casa da família na Toscana e aproveita a oportunidade da venda da propriedade para acertar sua relação com o filho."
-    },{
-      "id": 13,
-      "titulo": "Star Wars: A Ascensão Skywalker",
-      "ano": "2019",
-      "genero": "Ação, Aventura, Ficção científica",
-      "titulo_original": "Star Wars: The Rise of Skywalker",
-      "idioma_original": "Inglês",
-      "capa": "https://image.tmdb.org/t/p/w1280/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
-      "sinopse": "Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso, a Resistência toma a frente da batalha que ditará os rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa ligação com Kylo Ren (Adam Driver), que também se encontra em conflito pela Força."
-    },{
-      "id": 14,
-      "titulo": "Aves de Rapina: Arlequina e sua Emancipação Fantabulosa",
-      "ano": "2020",
-      "genero": "Ação, Crime, Comédia",
-      "titulo_original": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
-      "idioma_original": "Coreano",
-      "capa": "https://image.tmdb.org/t/p/w1280/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg",
-      "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/9xNOiv6DZZjH7ABoUUDP0ZynouU.jpg",
-      "sinopse": "Arlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade."
-    }
-  ]
+   "filmes": [
+     {
+       "id": 1,
+       "titulo": "Dançarina Imperfeita",
+       "ano": "2020",
+       "genero": "Comédia, Música",
+       "titulo_original": "Work It",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/vq2gVFqD2sv0W3bKITWMOwg0JXd.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/ishzDCZIv9iWfI70nv5E4ZreYUD.jpg",
+       "sinopse": "Para ser aceita na Universidade de Duke, a inteligente e desajeitada Quin decide vencer uma competição de dança. Com Sabrina Carpenter."
+     },{
+       "id": 2,
+       "titulo": "A Barraca do Beijo 2",
+       "ano": "2020",
+       "genero": "Comédia, Romance",
+       "titulo_original": "The Kissing Booth 2",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/oUafkafJiFKkXuzROaAY8N9gGq.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/wO5QSWZPBT71gMLvrRex0bVc0V9.jpg",
+       "sinopse": "Após o verão mais romântico de sua vida, Elle Evans precisa voltar à realidade enquanto Noah Flynn está em Harvard. No entanto, a distância acaba se provando mais difícil do que se imaginava, quando ela conhece um novo e charmoso amigo e ele se aproxima de uma 'perfeita' universitária."
+     },{
+       "id": 3,
+       "titulo": "The Tax Collector",
+       "ano": "2020",
+       "genero": "Ação, Crime, Drama, Thriller",
+       "titulo_original": "The Tax Collector",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/zogWnCSztU8xvabaepQnAwsOtOt.jpg",
+       "sinopse": "David e Creeper são coletores de taxas para o chefão do crime chamado Wizard, que pega uma parte dos lucros de todas as operações ilegais de outras gangues. Mas quando um rival de seu chefe retorna para Los Angeles vindo do México, David irá precisar tomar medidas drásticas para proteger sua família."
+     },{
+       "id": 4,
+       "titulo": "Exterminador: Cavaleiros e Dragões",
+       "ano": "2020",
+       "genero": "Animação, Ação",
+       "titulo_original": "Deathstroke: Knights & Dragons - The Movie",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/vFIHbiy55smzi50RmF8LQjmpGcx.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/owraiceOKtSOa3t8sp3wA9K2Ox6.jpg",
+       "sinopse": "Com sua alma despedaçada e seu filho preso, o mercenário e mestre assassino Slade Wilson terá que redimir os pecados do seu passado para alimentar as batalhas do seu futuro!"
+     },{
+       "id": 5,
+       "titulo": "O Jardim Secreto",
+       "ano": "2020",
+       "genero": "Drama, Fantasia, Família",
+       "titulo_original": "The Secret Garden",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/lHIgpy7yAyqxQx79PtvqEoiXuk8.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/8PK4X8U3C79ilzIjNTkTgjmc4js.jpg",
+       "sinopse": "Mary Lennox (Dixie Egerickx) é uma menina de 10 anos que acabou de perder os pais e é mandada para a Inglaterra para morar com o tio Archibald Craven (Colin Firth). Na mansão do tio ela começa a desvendar mistérios da família com a ajuda do seu primo (Edan Hayhurst)."
+     },{
+       "id": 6,
+       "titulo": "Do Fundo do Mar 3",
+       "ano": "2020",
+       "genero": "Ação, Terror, Ficção científica",
+       "titulo_original": "Deep Blue Sea 3",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/iK3Nqzqbp0HL7Mbnm3hKOsldxjn.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
+       "sinopse": "A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar."
+     },{
+       "id": 7,
+       "titulo": "Greyhound - Na Mira do Inimigo",
+       "ano": "2020",
+       "genero": "Guerra, Ação, Drama",
+       "titulo_original": "Greyhound",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/el7iWlogQ4Mv6A0qvBn4ZyxHGiW.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/xXBnM6uSTk6qqCf0SRZKXcga9Ba.jpg",
+       "sinopse": "No início da Segunda Guerra Mundial, um inexperiente capitão da Marinha dos EUA deve liderar um comboio aliado sendo perseguido por navios e submarinos nazistas."
+     },{
+       "id": 8,
+       "titulo": "SCOOBY! O Filme",
+       "ano": "2020",
+       "genero": "Família, Animação, Comédia, Aventur",
+       "titulo_original": "Scoob!",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/b5Fej0UT6gPFd2GcGEWw4SAwGUM.jpg",
+       "sinopse": "Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo. Enquanto eles correm para parar esse caopocalypse, a gangue descobre que Scooby tem um destino épico maior do que se imaginava."
+     },{
+       "id": 9,
+       "titulo": "Vingadores: Guerra Infinita",
+       "ano": "2018",
+       "genero": "Aventura, Ação, Ficção científica",
+       "titulo_original": "Avengers: Infinity War",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+       "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade."
+     },{
+       "id": 10,
+       "titulo": "A Origem",
+       "ano": "2010",
+       "genero": "Ação, Ficção científica, Aventura",
+       "titulo_original": "Inception",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/o1SB1gHCmEEURs8P6dfmSC9O3iu.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+       "sinopse": "Um ladrão que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo."
+     },{
+       "id": 11,
+       "titulo": "Coringa",
+       "ano": "2019",
+       "genero": "Crime, Thriller, Drama",
+       "titulo_original": "Joker",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+       "sinopse": "Arthur Fleck trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante."
+     },{
+       "id": 12,
+       "titulo": "Made in Italy",
+       "ano": "2020",
+       "genero": "Comédia, Drama",
+       "titulo_original": "Made in Italy",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/dKjD3DTZjRI3Ipkf7Oz5zAILnwD.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/5nRyaVklxyA9OkxqZaPv1KBRqpd.jpg",
+       "sinopse": "Um artista boêmio herda de sua mulher uma antiga casa da família na Toscana e aproveita a oportunidade da venda da propriedade para acertar sua relação com o filho."
+     },{
+       "id": 13,
+       "titulo": "Star Wars: A Ascensão Skywalker",
+       "ano": "2019",
+       "genero": "Ação, Aventura, Ficção científica",
+       "titulo_original": "Star Wars: The Rise of Skywalker",
+       "idioma_original": "Inglês",
+       "capa": "https://image.tmdb.org/t/p/w1280/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+       "sinopse": "Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso, a Resistência toma a frente da batalha que ditará os rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa ligação com Kylo Ren (Adam Driver), que também se encontra em conflito pela Força."
+     },{
+       "id": 14,
+       "titulo": "Aves de Rapina: Arlequina e sua Emancipação Fantabulosa",
+       "ano": "2020",
+       "genero": "Ação, Crime, Comédia",
+       "titulo_original": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+       "idioma_original": "Coreano",
+       "capa": "https://image.tmdb.org/t/p/w1280/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg",
+       "fundo": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/9xNOiv6DZZjH7ABoUUDP0ZynouU.jpg",
+       "sinopse": "Arlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade."
+     }
+   ]
+ }
 }
